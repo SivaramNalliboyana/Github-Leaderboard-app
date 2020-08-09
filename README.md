@@ -1,16 +1,18 @@
-# github
+# Github trending app
 
-A new Flutter project.
+Flutter github trending app with github api
 
-## Getting Started
+# Youtube
+* Full Youtube tutorial is available at my channel: https://youtu.be/Z9ZL_FBAEXQ
+## Features
 
-This project is a starting point for a Flutter application.
+* Users can see trending developers
+* Users can see treding repos
+* They see the repos with stars, language tag, forks e.t.c
+* Users can click on it and go to the repo
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="screenshots/Screenshot_1596967982.png" height=400em> <img src="screenshots/Screenshot_1596967990.png" height=400em> 
+<img src="screenshots/Screenshot_1596968003.png" height=400em>
